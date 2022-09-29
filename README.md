@@ -1,4 +1,4 @@
-# Getting Started with Google Maps API with Places autocomplete and Directions service and renderer.
+# POC with Google Maps API with Places autocomplete, Directions service, renderer and transits.
 
 ## What is covered?
 
