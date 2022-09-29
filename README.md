@@ -1,4 +1,5 @@
 # POC with Google Maps API with Places autocomplete, Directions service, renderer and transits.
+That POC is based on multiple examples from internet.
 
 ## What is covered?
 
